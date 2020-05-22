@@ -1,3 +1,4 @@
+.net core
 
 ajax上传文件
 
